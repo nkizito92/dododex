@@ -7283,5 +7283,15 @@
 "label":"Ice Titan Saddle",
 "t":"Saddles",
 "bp":"Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_IceKaiju.PrimalItemArmor_IceKaiju"
+},{
+"label":"Artifact Of The Stalker",
+"t":"Artifacts",
+"bp":"PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactAB_3.PrimalItemArtifactAB_3",
+"g":"ArtifactAB_3"
+},{
+"label":"Artifact Of The Shadows",
+"t":"Artifacts",
+"bp":"PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactAB_2.PrimalItemArtifactAB_2",
+"g":"ArtifactAB_2"
 }
 ]}
